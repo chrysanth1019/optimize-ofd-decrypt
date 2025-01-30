@@ -1,0 +1,1 @@
+nvcc -o decrypt decrypt.ofb.txt.cu -lssl -lcrypto

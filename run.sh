@@ -1,0 +1,1 @@
+./decrypt hashesx.txt password.txt 1
