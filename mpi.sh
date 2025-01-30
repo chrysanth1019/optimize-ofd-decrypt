@@ -1,0 +1,1 @@
+mpirun -np 8 ./decrypt hashesx.txt password.txt 1
